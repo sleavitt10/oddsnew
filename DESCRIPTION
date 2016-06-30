@@ -1,0 +1,13 @@
+Package: Odds2
+Type: Package
+Title: Functions for Gambling
+Version: 0.1.0
+Author: James Stanton Leavitt <stanotn.leavitt@virginia.edu>
+Description: Functions for workign with fractional and deciamal odds
+License: LPGL
+LazyData: TRUE
+Imports:
+    MASS
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
