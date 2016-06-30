@@ -9,3 +9,5 @@ test_that("Converting fractional -> decimal", {
 test_that("Converting decimal -> fractional", {
   expect_equal(to.fractional(1.5), "1/2")
 })
+
+#new comment
